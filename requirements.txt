@@ -1,0 +1,9 @@
+streamlit
+openai
+python-dotenv
+pypdf
+faiss-cpu
+numpy
+tiktoken
+pandas
+openpyxl
